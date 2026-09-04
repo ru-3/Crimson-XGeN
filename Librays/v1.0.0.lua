@@ -60,7 +60,7 @@ local CrimsonTheme = {
     Text = Color3.fromRGB(255, 255, 255),
     ElementColor = Color3.fromRGB(28, 28, 28),
     Outline = CRIMSON,
-    Placeholder = Color3.fromRGB(8, 8, 8),
+    Placeholder = Color3.fromRGB(0, 0, 0),
     IconColor = CRIMSON,
     Accent = CRIMSON,
 }
