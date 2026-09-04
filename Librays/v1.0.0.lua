@@ -55,8 +55,8 @@ local CRIMSON_DARK = Color3.fromRGB(120, 10, 25)
 
 local CrimsonTheme = {
     Name = "Crimson",
-    Background = Color3.fromRGB(8, 8, 8),
-    SideBar = Color3.fromRGB(16, 16, 16),
+    Background = Color3.fromRGB(0, 0, 0),
+    SideBar = Color3.fromRGB(1, 1, 1),
     Text = Color3.fromRGB(255, 255, 255),
     ElementColor = Color3.fromRGB(28, 28, 28),
     Outline = CRIMSON,
